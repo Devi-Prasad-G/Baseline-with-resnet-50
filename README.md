@@ -1,4 +1,4 @@
-# Baseline-with-resnet-50-Limited-Data-problem-
+# Image classification using limited data-
 These solutions are based on data classification problem provided at 
 https://github.com/VIPriors/vipriors-challenges-toolkit/tree/master/image-classification
 
